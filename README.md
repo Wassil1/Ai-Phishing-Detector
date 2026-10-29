@@ -26,7 +26,7 @@ The email text is treated as untrusted input. The AI is told to analyse it and n
 
 ## How to run
 ```bash
-git clone https://github.com/<your-username>/ai-phishing-detector.git
+git clone https://github.com/Wassil1/ai-phishing-detector.git
 cd ai-phishing-detector
 
 # Rule-based checks only (no account or API key needed)
@@ -52,11 +52,12 @@ python -m unittest test_detector.py -v
 Rule-based score: 28 -> LIKELY MALICIOUS
 FINAL RESULT: LIKELY MALICIOUS
 ```
-![Phishing sample result](screenshots/phishing-result.png)
+![Phishing sample result](Screenshots/phishing-result.png)
 
-![Legitimate sample result](screenshots/legit-result.png)
+![Legitimate sample result](Screenshots/legit-result.png)
 
-![Tests passing](screenshots/tests-passing.png)
+![Tests passing](Screenshots/tests-passing.png)
+
 The sample emails in `samples/` are made up for testing and are not real messages.
 
 ## What I learned
