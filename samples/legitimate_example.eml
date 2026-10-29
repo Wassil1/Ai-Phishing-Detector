@@ -1,0 +1,16 @@
+From: "Example Library" <library@example.com>
+Reply-To: <library@example.com>
+Return-Path: <library@example.com>
+To: student@example.com
+Subject: Your library loan is due next week
+Date: Tue, 27 Oct 2026 10:30:00 +1100
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=example.com; dkim=pass header.d=example.com; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Hi,</p>
+<p>This is a reminder that one of your loans is due next Tuesday. You can renew it any time on the
+<a href="https://example.com/library/loans">library website</a>.</p>
+<p>Thanks,<br>Example Library</p>
+</body></html>

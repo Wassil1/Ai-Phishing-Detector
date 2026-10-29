@@ -1,0 +1,19 @@
+From: "PayPal Security" <support@paypa1-secure.top>
+Reply-To: <account.recovery@outlook-support.xyz>
+Return-Path: <bounce@mailer.paypa1-secure.top>
+To: student@example.com
+Subject: Urgent: your account has been limited
+Date: Tue, 27 Oct 2026 09:15:00 +1100
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=paypa1-secure.top; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear customer,</p>
+<p>We noticed unusual activity on your account. Your account has been limited and will be suspended
+within 24 hours unless you verify your account immediately.</p>
+<p>Please <a href="http://paypa1-secure.top/verify?id=88213">https://www.paypal.com/signin</a>
+to confirm your details and update your payment information.</p>
+<p>You can also log in here: <a href="http://192.0.2.45/login">Secure login</a></p>
+<p>PayPal Security Team</p>
+</body></html>
